@@ -14,4 +14,5 @@ elif string[::-1].islower() == string[::-1].capitalize() == string:
 
 else:
     print('String is not palindrome')
+   
 
